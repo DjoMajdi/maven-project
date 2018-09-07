@@ -2,6 +2,7 @@ package com.example;
 
 /**
  * This is a class.
+ * @author Majdi
  */
 public class Greeter {
 
